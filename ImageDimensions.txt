@@ -1,0 +1,4 @@
+48 pixels wide, 27 pixels high
+96 pixels wide, 54 pixels high
+144 pixels wide, 81 pixels high
+Basically I used cross multiplication to find the first 3 dimensions. Its a simple pattern. The width will be divisable by 48 and the height by 27.
